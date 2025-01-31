@@ -1,5 +1,6 @@
-# RITA Scripts
-Thanks to Active Countermeasures RITA Tool for Zeek/Bro
+# Malware Command and Control (c2) detection 
+## adding data sources to help filter out false/corporate Beacons and Beacon-like activity to reduce false positives in intrusion detection hunting
+Thanks to UC Berkeley for Zeek/Bro and  Active Countermeasures RITA Tool
 
 - https://github.com/activecm/rita
 - https://github.com/zeek
